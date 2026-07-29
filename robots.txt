@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cheongdam-shirts-zone.xyz/sitemap-index.xml
